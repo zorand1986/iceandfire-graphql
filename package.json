@@ -1,7 +1,7 @@
 {
   "name": "iceandfire-graphql",
   "description": "A GraphQL wrapper for anapioficeandfire.com",
-  "version": "1.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "http://github.com/afram/iceandfire-graphql.git"
